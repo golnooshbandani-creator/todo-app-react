@@ -22,7 +22,9 @@ Simply open the `index.html` file in your browser.
 
 ### Developer
 [GolnooshBandani]
+
 [GitHub Link]=> https://github.com/golnooshbandani-creator/todo-app-react
+
 Demo_Link => https://do-work-app-react.netlify.app
 
 
@@ -47,5 +49,7 @@ Demo_Link => https://do-work-app-react.netlify.app
 
 ### توسعه‌دهنده
 [گلنوش بندانی] -
-[لینک گیت‌هات] => https://github.com/golnooshbandani-creator/todo-app-react 
+
+[لینک گیت‌هات] => https://github.com/golnooshbandani-creator/todo-app-react
+
 لینک دمو => https://do-work-app-react.netlify.app
